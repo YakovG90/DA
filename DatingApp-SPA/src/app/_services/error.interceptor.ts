@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+/*import { Injectable } from '@angular/core';
 import { Http, Headers, RequestOptions, Response } from '@angular/http';
 import { catchError, map } from '../../../node_modules/rxjs/operators';
 import { Observable, throwError } from '../../../node_modules/rxjs';
@@ -47,4 +47,4 @@ export class AuthService {
             modelStateErrors || 'Server error'
         );
     }
-}
+}*/
